@@ -1,0 +1,1 @@
+This is a Jupyter notebook analysis, crafted using Python, where I dissect the stock performance of Tesla and GameStop. Leveraging Pandas for data extraction and preprocessing, alongside Matplotlib and Plotly for visualization.
